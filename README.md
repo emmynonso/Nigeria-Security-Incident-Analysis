@@ -24,6 +24,14 @@ This analysis examines security incidents across Nigeria over multiple years, wi
 • Supporting data-driven security planning and intervention <br>
 The dashboard transforms raw incident records into actionable national security insights.
 
+**Project Files**
+
+- Data <br>
+- SQL queries <br>
+- Power BI dashboard <br>
+- Final analysis report <br>
+- Visuals
+
 **Methodology:**
 
 Data was gotten from a few security incidents reporting websites online. Incidents were grouped 
