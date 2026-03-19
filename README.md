@@ -8,7 +8,7 @@ insurgency, armed banditry, communal conflicts, and criminal activities. Underst
 patterns behind these incidents is critical for strategic intervention and resource allocation.
 This project analyzes multi-year security incident data across Nigeria to uncover:
 
-• National trends over time
+• National trends over time <br>
 • Geographic concentration of violence
 • Dominant perpetrator groups
 • Year-over-Year performance patterns
