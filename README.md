@@ -75,7 +75,7 @@ making trend analysis critical for early warning and planning
 
 **Key Performance Indicators:**
 
-<img width="1176" height="207" alt="kpi&#39;s" src="https://github.com/user-attachments/assets/f1265e17-f556-43d8-98ae-91994d20d617" />
+<img width="1176" height="207" alt="kpi&#39;s" src="https://github.com/user-attachments/assets/f1265e17-f556-43d8-98ae-91994d20d617" /> <br>
 
 • Total Incidents (900) <br>
 • Total Fatalities (13,664) <br>
@@ -83,3 +83,10 @@ making trend analysis critical for early warning and planning
 • Most Affected State (Katsina) <br>
 • Deadliest Group (Boko Haram) <br>
 
+**➢ Understanding the Motives Behind Terrorism Incidents & Killings** 
+
+<img width="1447" height="866" alt="overview" src="https://github.com/user-attachments/assets/3ebe7246-9306-4cae-95b9-78741b748e5a" /> <br>
+
+📊Data-Based Observations: 
+From the dashboard analysis:
+Incidents are heavily concentrated in specific regions, with certain perpetrators dominating particular geographic zones. Some groups are characterized by a high frequency of attacks but moderate fatalities, while others display lower frequency yet higher lethality. Additionally, kidnapping-related incidents tend to appear in identifiable clusters, highlighting distinct patterns in both occurrence and impact. 
