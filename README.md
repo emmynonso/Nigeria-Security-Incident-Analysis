@@ -9,9 +9,9 @@ patterns behind these incidents is critical for strategic intervention and resou
 This project analyzes multi-year security incident data across Nigeria to uncover:
 
 • National trends over time <br>
-• Geographic concentration of violence
-• Dominant perpetrator groups
-• Year-over-Year performance patterns
+• Geographic concentration of violence <br>
+• Dominant perpetrator groups <br>
+• Year-over-Year performance patterns <br>
 • Regional and state-level hotspots
 
 **Project Context & Objective:**
