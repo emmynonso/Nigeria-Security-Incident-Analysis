@@ -61,3 +61,25 @@ A notable proportion of incidents are attributed to “Unknown” perpetrators. 
 limitations in attribution, reporting, or intelligence capabilities, which may affect policy 
 precision. <br>
 
+**Big Picture: National Incident Trend** 
+
+**➢ What is really happening in Nigeria?** <br>
+• Total recorded incidents (900) show clear year-to-year fluctuations <br>
+• Some years, experience sharp increase indicating periods of heightened Insecurity <br>
+• Other years show temporary declines, suggesting the impact of interventions or reporting 
+changes. <br>
+
+**Key Insight:** <br>
+Security incidents in Nigeria are not random; they follow identifiable temporal patterns, 
+making trend analysis critical for early warning and planning
+
+**Key Performance Indicators:**
+
+<img width="1176" height="207" alt="kpi&#39;s" src="https://github.com/user-attachments/assets/f1265e17-f556-43d8-98ae-91994d20d617" />
+
+• Total Incidents (900) <br>
+• Total Fatalities (13,664) <br>
+• Most Affected Region (North West) <br>
+• Most Affected State (Katsina) <br>
+• Deadliest Group (Boko Haram) <br>
+
