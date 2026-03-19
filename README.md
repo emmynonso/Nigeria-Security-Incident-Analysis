@@ -142,6 +142,25 @@ Incidents are mostly found in just a few states and two sub-regions, instead of 
 • Top 10 states in Nigeria were identified based on incident volume; <br>
 • These states consistently appear across 2020-2025, signaling persistent risk zones. <br>
 
-| Kaduna State | Sokoto State | Zamfara State | Kebbi State | Yobe State |
-|------------------------------------------------------------------------|
-| Kogi State | Nasarrawa State | Plateau State | Kwara State | Niger State |
+  Katsina State <br>
+  Sokoto State <br>
+  Zamfara State <br>
+  Kebbi State <br>
+  Yobe State <br>
+  Kogi State <br>
+  Nasarrawa State <br>
+  Plate State <br>
+  Kwara State <br>
+  Niger State <br>
+
+These states consistently appear across multiple years, signaling persistent risk zones. The data show violence is concentrated in a small cluster of northern states, with the North West bearing the heaviest burden (399 incidents) and Katsina standing out as the worst-affected state—highest incident count (73) and fatalities (1,277)—closely followed by Zamfara and Sokoto; the South East records markedly lower incident volumes, and fatalities closely mirror 
+incident patterns, underscoring high lethality in the identified hotspot states. <br>
+
+**Recommendations:**
+
+• Focus limited security resources on northern hotspot states (especially North West) instead of spreading forces nationwide. <br>
+• Strengthen collaboration between federal forces, state governments, and regulated local vigilante groups to maximize impact without increasing costs.<br>
+• Protect rural communities and key economic corridors to reduce both violence and its impact on food prices and livelihoods. <br>
+• Invest in youth employment and agricultural support in high-burden states to address economic drivers of insecurity. <br>
+
+
