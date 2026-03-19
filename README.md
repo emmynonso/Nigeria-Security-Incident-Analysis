@@ -227,7 +227,7 @@ Security interventions must therefore balance immediate operational response wit
 
 **Closing Insight**
 
-**The data makes one conclusion clear:**
+**The data makes one conclusion clear:** <br>
 Nigeria’s security crisis is not merely a military challenge -- it is a data, ideologic, economic, and governance challenge. Sustainable improvement will require smarter allocation of limited resources, deeper community engagement and policing, improved intelligence systems, expansion or creating more military bases and targeted socioeconomic intervention in the most affected regions. <br>
 A focused, intentional and evidence-driven approach by the security agents including the whole country’s security architecture — rather than broad reactive deployment — offers the strongest path toward measurable and sustainable national stability
 
