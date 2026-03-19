@@ -14,6 +14,14 @@ This project analyzes multi-year security incident data across Nigeria to uncove
 • Year-over-Year performance patterns <br>
 • Regional and state-level hotspots
 
-**Project Context & Objective:**
+**Project Context & Objective:** <br>
+This analysis examines security incidents across Nigeria over multiple years, with the goal of: <br>
+• Understanding how security incidents are evolving over time <br>
+• Identifying geographic hotspots <br>
+• Uncovering key perpetrators driving insecurity <br>
+• Understanding the hidden motive or agenda behind the insurgency <br>
+• Supporting data-driven security planning and intervention <br>
+The dashboard transforms raw incident records into actionable national security insights.
+
 
 
