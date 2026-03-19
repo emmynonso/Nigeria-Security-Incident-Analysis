@@ -6,3 +6,14 @@ Data analysis of terrorism and insurgency incidents in Nigeria using Power BI, S
 Nigeria has experienced fluctuating security challenges over the past decade, driven by 
 insurgency, armed banditry, communal conflicts, and criminal activities. Understanding the 
 patterns behind these incidents is critical for strategic intervention and resource allocation.
+This project analyzes multi-year security incident data across Nigeria to uncover:
+
+• National trends over time
+• Geographic concentration of violence
+• Dominant perpetrator groups
+• Year-over-Year performance patterns
+• Regional and state-level hotspots
+
+**Project Context & Objective:**
+
+
