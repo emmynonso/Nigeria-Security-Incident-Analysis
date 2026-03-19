@@ -26,7 +26,7 @@ The dashboard transforms raw incident records into actionable national security 
 
 **Project Files**
 
-- Data <br>
+- Dataset <br>
 - SQL queries <br>
 - Power BI dashboard <br>
 - Final analysis report <br>
