@@ -131,5 +131,17 @@ while 2024 marked a major escalation with peaks across incidents, fatalities, an
 • Efforts should also focus on disrupting kidnapping financing systems, by stopping ransom payments or settlements to these terrorists while improving data reporting and interagency coordination to reduce intelligence gaps. <br>
 • Long-term stability will depend on addressing youth unemployment and economic hardship in hotspot regions, as prevention is more sustainable and cost-effective than prolonged conflict response. <br>
 
+**➢ Geographic Distribution of Incidents**
 
+<img width="1466" height="866" alt="region" src="https://github.com/user-attachments/assets/d58dd771-86eb-4760-85d4-4dfd8429df6f" /> <br>
 
+**🌍 Where are incidents most concentrated?**
+Incidents are mostly found in just a few states and two sub-regions, instead of being spread evenly across the country. These few states make up a very large share of the total incidents, showing that the problem is not balanced everywhere. This clustering could point to diverse issues being the main drivers of insecurity in those areas. Security threats in Nigeria are highly regional, meaning a one-size-fits-all security response is inefficient. <br>
+**➢ Regional & State-Level Insights** <br>
+ **❓ Which states are most affected?** <br>
+• Top 10 states in Nigeria were identified based on incident volume; <br>
+• These states consistently appear across 2020-2025, signaling persistent risk zones. <br>
+
+| Kaduna State | Sokoto State | Zamfara State | Kebbi State | Yobe State |
+|------------------------------------------------------------------------|
+| Kogi State | Nasarrawa State | Plateau State | Kwara State | Niger State |
