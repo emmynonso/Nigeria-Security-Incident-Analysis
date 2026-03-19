@@ -163,4 +163,63 @@ incident patterns, underscoring high lethality in the identified hotspot states.
 • Protect rural communities and key economic corridors to reduce both violence and its impact on food prices and livelihoods. <br>
 • Invest in youth employment and agricultural support in high-burden states to address economic drivers of insecurity. <br>
 
+**➢ Perpetrator Analysis** 
+
+<img width="1458" height="862" alt="perpetrators" src="https://github.com/user-attachments/assets/430cd5fe-073f-45d6-96e4-c2ab751fbb5a" /> <br>
+
+**⚔ Who is driving the incidents?**
+Security incidents were categorized based on identified perpetrator groups. <br>
+Analysis reveals that five key actors dominate the landscape of recorded violence: <br>
+• Boko Haram emerges as one of the most consistently active groups across multiple years contributing significantly to total incident volume. <br>
+• Armed Bandits show high frequency in specific regional clusters, often associated with kidnapping and localized attacks. <br>
+• Fulani Militants appear prominently in areas experiencing recurring communal and resource-related conflicts. <br>
+• ISWAP, while sometimes lower in total frequency compared to Boko Haram, demonstrates concentrated operational patterns. <br>
+• Unknown / Unidentified perpetrators represent a notable proportion of incidents, indicating gaps in attribution and intelligence reporting. <br>
+**Key Insight** <br>
+Nigeria’s insecurity is mainly caused by a few repeat groups like Boko Haram, Armed Bandits, Fulani Militants, and ISWAP. At the same time, many incidents are blamed on unknown attackers, showing that intelligence and tracking remain difficult. Because the problem is concentrated among specific groups, focused intelligence-driven actions (like creating more military bases in the affected regions) would work better than broad, general security measures. 
+
+**➢ Key Patterns Observed**
+
+**Key Patterns Observed:** <br>
+• Recurring hotspots rather than new random locations <br>
+• Cycles of escalation and decline, not linear improvement <br>
+• Regional concentration of violence <br>
+• Repeat perpetrator dominance <br>
+
+**➢ Implications for Decision-Makers**
+
+**Based on the analysis:** <br>
+• Resources should be prioritized toward high-impact states <br>
+• Creating of more military bases in these affected regions to help combat the insurgents <br>
+• Improved perpetrator identification would significantly enhance response strategies <br>
+• Preventive action should focus on trend acceleration periods <br>
+
+Nigeria’s security challenges are geographically concentrated, driven by repeat perpetrators, and exhibit clear year-to-year patterns, despite motive behind the incidents not categorically documented — data-driven, targeted interventions become even more essential. <br>
+
+**Data Limitations and Assumptions**
+
+• Some incidents are categorized as “Unknown” perpetrator. <br>
+• Motives are inferred, not directly recorded. <br>
+• Year-to-Year calculations assume complete annual data. <br>
+• Reporting accuracy may vary across regions. <br>
+
+**Executive Summary** 
+
+This analysis examined terrorism and violent security incidents across Nigeria, identifying geographic concentration, perpetrator patterns, incident trends, and fatality distribution. The findings reveal a highly concentrated security burden, rather than a uniformly distributed national crisis. The North West emerges as the most affected region, with states such as Katsina, Zamfara, and Sokoto consistently ranking highest in both incidents and fatalities. Fatality patterns closely mirror incident concentration, indicating not only frequent attacks but high lethality in key hotspot states.
+Perpetrator analysis shows that a small number of identifiable armed groups (4) are responsible for the majority of recorded incidents. However, the continued presence of “unknown gunmen” or unattributed actors highlights intelligence and reporting gaps, limiting full accountability and strategic response precision.
+A notable surge in kidnapping-related activities in recent years suggests an increasing economic dimension to insecurity, where criminal violence is driven not only by ideology but by financial incentives. This shift reflects deeper structural pressures within the Nigerian economy — including youth unemployment, inflation, rural poverty, and weakened local economic systems. <br>
+Importantly, the data suggests that insecurity in Nigeria is geographically concentrated, economically influenced, and structurally reinforced, rather than random or evenly spread. Given Nigeria’s fiscal constraints, rising cost of living, and limited security budgets, a nationwide 
+force expansion is neither economically sustainable nor strategically optimal. Instead, the evidence supports: <br>
+• Targeted deployment in high-burden northern states <br>
+• Strengthened community policing and intelligence systems <br>
+• Disruption of kidnapping and criminal financing networks <br>
+• Improved data attribution and inter-agency coordination <br>
+• Long-term socioeconomic stabilization in hotspot regions <br>
+Security interventions must therefore balance immediate operational response with economically realistic prevention strategies. 
+
+**Closing Insight**
+
+**The data makes one conclusion clear:**
+Nigeria’s security crisis is not merely a military challenge -- it is a data, ideologic, economic, and governance challenge. Sustainable improvement will require smarter allocation of limited resources, deeper community engagement and policing, improved intelligence systems, expansion or creating more military bases and targeted socioeconomic intervention in the most affected regions. <br>
+A focused, intentional and evidence-driven approach by the security agents including the whole country’s security architecture — rather than broad reactive deployment — offers the strongest path toward measurable and sustainable national stability
 
