@@ -85,7 +85,7 @@ making trend analysis critical for early warning and planning
 
 **➢ Understanding the Motives Behind Terrorism Incidents & Killings** 
 
-<img width="1447" height="866" alt="overview" src="https://github.com/user-attachments/assets/3ebe7246-9306-4cae-95b9-78741b748e5a" /> <br>
+<img width="1446" height="867" alt="overview" src="https://github.com/user-attachments/assets/8e54b48b-1058-4a0b-adb0-88a25487b019" /> <br>
 
 📊Data-Based Observations: 
 From the dashboard analysis:
