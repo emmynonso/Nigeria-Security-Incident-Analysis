@@ -14,7 +14,8 @@ This project analyzes multi-year security incident data across Nigeria to uncove
 • Year-over-Year performance patterns <br>
 • Regional and state-level hotspots
 
-**Project Context & Objective:** <br>
+**Project Context & Objective:** 
+
 This analysis examines security incidents across Nigeria over multiple years, with the goal of: <br>
 • Understanding how security incidents are evolving over time <br>
 • Identifying geographic hotspots <br>
@@ -23,5 +24,16 @@ This analysis examines security incidents across Nigeria over multiple years, wi
 • Supporting data-driven security planning and intervention <br>
 The dashboard transforms raw incident records into actionable national security insights.
 
+**Methodology:**
 
+Data was gotten from a few security incidents reporting websites online. Incidents were grouped 
+by recorded perpetrator category; using aggregation techniques, total incident counts were 
+calculated per perpetrator and ranked in descending order to identify the dominant insurgent 
+groups.
+The analysis focused on the five most significant categories:
+• Boko Haram <br>
+• Armed Bandits <br>
+• Fulani Militants <br>
+• ISWAP (Islamic State West Africa Province) <br>
+• Unknown Gun Men
 
